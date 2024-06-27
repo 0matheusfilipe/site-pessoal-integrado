@@ -1,0 +1,121 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#followers-count{
+  color: #30363d;
+  font-weight: bold;
+}
+
+#following-count{
+  color:#30363d;
+  font-weight: bold;
+}
+
+#company-name{
+  color:#30363d
+}
+
+#company-name:hover{
+  color: #8b949e;
+
+}
+
+a {
+  text-decoration: none;
+  color: #8b949e;
+}
+
+a:hover{
+  color: #30363d
+}
+
+.card {
+  border: 1px solid #30363d;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;  
+  gap: 30px;
+  border-radius: 6px;
+  margin: 15px;
+}
+
+.card-body .section{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-body .section .card-data{
+  color:#8b949e;
+  border: 0px solid #8b949e;
+  padding: 10px 5px;
+  font-size: 0.8rem;
+}
+
+.card-body .section .card-title{
+  color: #47a6f0;
+}
+
+.circle {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+
+.circle.javascript {
+  background-color: #f1e05a; /* Cor para JavaScript */
+}
+
+.circle.python {
+  background-color: #3572A5; /* Cor para Python */
+}
+
+.circle.csharp {
+  background-color: #29c70a; /* Cor para c# */
+}
+
+.circle.html {
+  background-color: #e34c26; /* Cor para HTML */
+}
+
+.circle.css {
+  background-color: #563d7c; /* Cor para CSS */
+}
+
+.circle.null{
+  background-color: #30363d;
+}
+
+/* Adicione mais classes para outras linguagens conforme necessário */
+
+
+.bootstrap-icons{
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  gap: 30px;
+}
+
+.fixed-size-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.social-media-links {
+  margin-top: 15px;
+}
+
+.social-media-links a {
+  margin-right: 15px;
+  color: #8b949e;
+}
+
+.social-media-links a:hover {
+  color: #47a6f0;
+}

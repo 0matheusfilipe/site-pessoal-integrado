@@ -1,0 +1,83 @@
+{
+  "colegas": [
+    {
+      "id": 1,
+      "nome": "Arthur Marques",
+      "url-github": "https://github.com/marquesht",
+      "url-foto": "https://avatars.githubusercontent.com/u/156453323?v=4",
+      "descricao": "Dupla de trabalho da faculdade"
+    },
+    {
+      "id": 2,
+      "nome": "Higor Barbosa",
+      "url-github": "https://github.com/hgbarbosa18",
+      "url-foto": "https://avatars.githubusercontent.com/u/167148153?v=4",
+      "descricao": "Jogador profissional"
+    },
+    {
+      "id": 3,
+      "nome": "Tadeu",
+      "url-github": "https://github.com/tadeugb",
+      "url-foto": "https://avatars.githubusercontent.com/u/62226506?v=4",
+      "descricao": "A mente por trás do PUC Check"
+    },
+    {
+      "id": 4,
+      "nome": "Igor Barroso",
+      "url-github": "https://github.com/igorbarrosoalmeida",
+      "url-foto": "https://avatars.githubusercontent.com/u/104567159?v=4",
+      "descricao": "de Almeida"
+    },
+    {
+      "id": 5,
+      "nome": "Danilo Riguette",
+      "url-github": "https://github.com/danilohr",
+      "url-foto": "https://avatars.githubusercontent.com/u/75738653?v=4",
+      "descricao": "Um grande cérebro com grandes músculos"
+    },
+    {
+      "id": 6,
+      "nome": "Gabriel Falk",
+      "url-github": "https://github.com/falkones04",
+      "url-foto": "https://avatars.githubusercontent.com/u/113801587?v=4",
+      "descricao": "A melhor Skye do Brasil"
+    }
+  ],
+  "conteudos": [
+    {
+      "id": 1,
+      "titulo": "Unlocking AI’s Black Box in Genomics: SQUID’s Deep Dive Into DNA Data",
+      "descricao": "Este artigo aborda como um novo algoritmo chamado SQUID está revolucionando a análise de dados genômicos, permitindo uma compreensão mais profunda e precisa do DNA. Isso é essencial para avanços na medicina personalizada e no tratamento de doenças genéticas.",
+      "imagem": "https://scitechdaily.com/images/Squid-AI-Black-Box-777x518.jpg",
+      "link": "https://scitechdaily.com/unlocking-ais-black-box-in-genomics-squids-deep-dive-into-dna-data/"
+    },
+    {
+      "id": 2,
+      "titulo": "Stanford Unveils Game-Changing Liquid Fuel Technology for Grid Energy Storage",
+      "descricao": "Cientistas da Stanford desenvolveram uma nova tecnologia de armazenamento de energia usando combustíveis líquidos, que pode revolucionar a forma como armazenamos energia em redes elétricas. Isso é crucial para a transição para fontes de energia renováveis.",
+      "imagem": "https://scitechdaily.com/images/Advanced-Futuristic-Liquid-Flow-Battery-Concept-777x518.jpg",
+      "link": "https://scitechdaily.com/stanford-unveils-game-changing-liquid-fuel-technology-for-grid-energy-storage/"
+    },
+    {
+      "id": 3,
+      "titulo": "New Breakthrough Allows a Computer To Understand Human Emotions",
+      "descricao": "Este artigo discute um avanço significativo na inteligência artificial, onde computadores agora podem interpretar e responder a emoções humanas com alta precisão. Isso tem grandes implicações para a interação homem-máquina e para o desenvolvimento de assistentes virtuais mais empáticos.",
+      "imagem": "https://scitechdaily.com/images/Artificial-Intelligence-Robot-Heart-777x518.jpg",
+      "link": "https://scitechdaily.com/new-breakthrough-allows-a-computer-to-understand-human-emotions/"
+    },
+    {
+      "id": 4,
+      "titulo": "Earthquake Eyes: Volcano-Monitoring Gyroscope Unlocks Seismic Secrets",
+      "descricao": "Pesquisadores desenvolveram um giroscópio avançado para monitorar vulcões, que oferece insights detalhados sobre a atividade sísmica. Este dispositivo pode prever erupções e ajudar na mitigação de desastres naturais.",
+      "imagem": "https://scitechdaily.com/images/Volcano-Measurement-Simuation-Art-Concept.jpg",
+      "link": "https://scitechdaily.com/earthquake-eyes-volcano-monitoring-gyroscope-unlocks-seismic-secrets/"
+    },
+    {
+      "id": 5,
+      "titulo": "How AI and 3D Printing Are Changing the Way We Grow Food",
+      "descricao": "Este artigo explora como a combinação de inteligência artificial e impressão 3D está transformando a agricultura. Novas tecnologias estão sendo utilizadas para otimizar o crescimento das plantas, aumentar a eficiência e reduzir o desperdício.",
+      "imagem": "https://scitechdaily.com/images/Sugar-Beet-Root-Model-Field-Trial-777x437.jpg",
+      "link": "https://scitechdaily.com/how-ai-and-3d-printing-are-changing-the-way-we-grow-food/"
+    }
+  ]
+}
